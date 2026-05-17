@@ -1,0 +1,23 @@
+# Environment
+.env
+venv/
+
+# Captcha cache
+tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+*.jpeg
+*.png
+
+
+iniciar.bat
